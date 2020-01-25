@@ -1,4 +1,5 @@
 # 201710100595
-welcome to presidency university
+welcome to presidency university<<<<<<< new
 hgfffhgfh
-hjnhgjn
+hjnhgjn=======
+c>>>>>>> master
