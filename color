@@ -1,0 +1,18 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body bgcolor="00FF00">
+
+<h1 style="color:red;">Presidency University</h1>
+<h2 style="color:blue;">School of Engineering</h2>
+<h3 style="color:black;">computer engineering</h3>
+<h4 style="color:white;">name</h4>
+<h5 style="color:green;">idno</h5>
+<h6 style="color:blue;">class</h6>
+<p style="color:red;">details</p>
+
+</body>
+</html>
