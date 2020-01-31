@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>TABLES</title>
+</head>
+<body>
+<table  border="5" width="50%" Bgcolor="lightblue" CellSpacing="5" CellPadding="5" align="center" BorderColor="00FFFF">
+<caption>Food Details</caption>
+<tr>
+<th> </th>
+<th>Apple</th>
+<th>Orange</th>
+<th>Grapes</th>
+</tr>
+<tr>
+<th>Ramesh</th>
+<td>000</td>
+<td>111</td>
+<td>111</td>
+</tr>
+<tr>
+<th>Suresh</th>
+<td>111</td>
+<td>111</td>
+<td>111</td>
+</tr>
+</body>
+</html>
+
