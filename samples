@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title >sample</title>
+</head>
+<body bgcolor="lightblue">
+<h1><center><b>Quote of the day</b></center></h1>
+<hr size="3" color="red">
+<p><b><i>Its only after you have stepped outside your<br>comfort zone that you begin to change,grow and transform</i></b></p>
+<p align="right">Be<del>negative</del><ins>positive</ins></p>
+<p align="right"><Big>live</big><small>life!</small></b></p>
+</body>
+</html>
+
