@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+<title>lists</title>
+</head>
+<body>
+<h3>ORDERED LIST></h3>
+<ol>
+    <li>cat</li>
+    <li>dog</li>
+    <li>lion</li>
+</ol>
+<h3>UNORDERED LIST></h3>
+<ul>
+    <li>peer</li>
+    <li>orange</li>
+    <li>apple</li>
+</ul>
+<h3>DEFINITION LIST></h3>
+<DL>
+<DT>HTML</DT>
+<DD>Hyper Text MarkUp Language</DD>
+<DT>DOG</DT>
+<DD>A human's best friend</DD>
+</DL>
+</body>
+</html>
