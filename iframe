@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>HTMl Iframes</title>
+</head>
+<body>
+<p> Document content goes here...</p>
+<iframe src="/home/Sem6B7/Documents/20171cse0423/Float_property" name="iframe_a" width="555" height="500" style="border:2px solid red;scrolling:no">
+ Sorrry your browser does not support inline frames.
+</iframe>
+<p><a href="/home/Sem6B7/Documents/20171cse0423/Linda" target="iframe_a">Load new web page</a><p>
+</body>
+</html>
