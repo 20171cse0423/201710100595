@@ -1,0 +1,18 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title >Link</title>
+</head>
+<body >
+ <div style="background-image: url('/home/Sem6B7/Desktop/index.jpeg')"> 
+<a href="https://en.wikipedia.org/wiki/HTML #HTML 4 #Skills"><img src="/home/Sem6B7/Desktop/index.jpeg" alt="thor pic" height="400" width="400" border="5" align="right"></a>
+<p id="thor">description</p>
+
+</body>
+</html>
+
+
+
+
+
