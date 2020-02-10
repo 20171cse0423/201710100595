@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>HTML Frames</title>
+</head>
+<frameset rows="25%,*,25%" cols="40%,*">
+  <frame src="/home/Sem6B7/Documents/20171cse0423/tables">
+  <frame src="/home/Sem6B7/Documents/20171cse0423/html tags">
+  <frame src="/home/Sem6B7/Documents/20171cse0423/lists">
+  <frame src="/home/Sem6B7/Documents/20171cse0423/samples">
+  <frame src="/home/Sem6B7/Documents/20171cse0423/link">
+  <frame src="/home/Sem6B7/Documents/20171cse0423/Linda">
+</frameset>
+</html>

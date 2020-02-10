@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Nested Frames</title>
+</head>
+<frameset cols="40%,*">
+ <frameset rows="50%,*">
+  <frame src="/home/Sem6B7/Documents/20171cse0423/tables">
+  <frame src="/home/Sem6B7/Documents/20171cse0423/html tags">
+ </frameset>
+ <frameset rows="20%,35%,*">
+  <frame src="/home/Sem6B7/Documents/20171cse0423/lists">
+  <frame src="/home/Sem6B7/Documents/20171cse0423/samples">
+  <frame src="/home/Sem6B7/Documents/20171cse0423/Linda">
+</frameset>
+</frameset>
+</html>
