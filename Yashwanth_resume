@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>Sample Paragraph</title>
+</head>
+
+<body>
+<h3 style="line-height:0.7">M.Yeswanth Kumar</h3>
+<p style="line-height:0.4"Email:><a href="mailto:yeswanthkumarmungandi123@gmail.com">yeswanthkumarmungandi123@gmail.com</a></p>
+<p style="line-height:0.4">mobile: +91 9182287171</p>
+<h3>CV Highlights:</h3>
+<ul>
+    <li>Professional Details</li>
+    <li>Skills known</li>
+    <li>experience</li>
+</ul>
+
+<h3>Proffesional experience</h3>
+
+
+
+
+<h3>Technical Skills:</h3>
+<ul>
+    <li><h7 style="color:red">Operating Systems:</h7>ubuntu,windows,mac,Dos</li>
+    <li><h7 style="color:red">Application Software:</h7>Excel,MS Office</li>
+    <li><h7 style="color:red">Programming Skills:</h7>HTML,Python,JAVA,c,SQL</li>
+</ul>
+
