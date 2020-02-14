@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>HtML embeded tag</title>
+</head>
+<body>
+<embed src="presidency.mp4" width="100%" height="100%" type="video/mp4">
+<noembed><img src="presidency.png"alt="alternate Maedia"></noembed>
+</embed>
+</body>
+</html>
