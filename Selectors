@@ -1,0 +1,121 @@
+
+<!––Discendent Selector ––>
+
+
+<html>
+<head>
+<style>
+div p {
+   background-color:yellow;
+     }
+</style>
+</head>
+<body>
+<div>
+ <p>Paragraph 1 in the div.</p>
+ <p>Paragraph 2 in the div.</p>
+ <h1><p>Paragraph 3 in the div.</p></h1>
+</div>
+<p>Paragraph 4 not in a div.</p>
+<p>Paragraph 5 not in a div.</p>
+</body>
+</html>
+
+
+<!––Child Selector ––>
+
+
+<html>
+  <head>
+    <style>
+           div > p {
+                  color:white;
+                  background-color:green;
+                  padding:2px;
+                    }
+      </style>
+    </head>
+    <body style="text-align:center;">
+      <div>
+         <h2 style="color:green;">
+             CSS Child Selector
+          </h2>
+           <p>
+            A Computer Science portal.
+           </p>
+           </div>
+           <p>Welcome to Presideency university</p>
+           <p> This paragraph will not be styled</p>
+     </body>
+</html>
+              
+
+
+<!––Class Selector ––>
+
+
+
+<html>
+<head>
+<style>
+p.center{
+    text-align:center;
+    color:red;
+       }
+p.large{
+    font-size:300%;
+       }
+</style>
+</head>
+<body>
+ <p class="center">This heading will not be affected</p>
+ <p class="large">This paragraph will be red and centered</p>
+ <p class="center large">This  paragraph will be red,center and large</p>
+</body>
+</html>
+
+
+<!––ID Selector ––>
+
+
+<html>
+<head>
+<style>
+#para1 {
+    text-align:center;
+    color:red;
+       }
+</style>
+</head>
+<body>
+ <p id="para1">Hello World</p>
+ <p >This paragraph is not affected by the style</p>
+</body>
+</html>
+
+
+
+
+<!––ID Selector ––>
+    
+
+
+<html>
+<head>
+<style>
+h1,h2,p {
+    text-align:center;
+    color:blue;
+       }
+</style>
+</head>
+<body>
+ <h1>Hello World</h1>
+ <h2>smaller heading</h2>
+ <p>this is a paragraph</p>
+</body>
+</html>
+
+
+
+
