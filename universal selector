@@ -1,0 +1,29 @@
+
+<!––Universal Selector  ––>
+
+
+<html>
+  <head>
+    <style>
+           * {
+                  color:white;
+                  background-color:pink;
+                  padding:2px;
+                    }
+      </style>
+    </head>
+    <body style="text-align:center;">
+      <div>
+         <h2 style="color:black;">
+             CSS Child Selector
+          </h2>
+           <p>
+            A Computer Science portal.
+           </p>
+           </div>
+           <p>Welcome to Presideency university</p>
+           <p> This paragraph will not be styled</p>
+     </body>
+</html>     
+
+               
