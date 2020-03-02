@@ -1,0 +1,35 @@
+<html>
+<head>
+<style>
+  p.a{
+       text-align:center;
+         text-decoration:line-through;
+         color:red;
+         letter-spacing:1;
+         text-transform:uppercase;
+         text-shadow:8px 8px 5px red;
+         }
+  p.b{
+        text-align:left;
+         text-decoration:underline;
+         color:green;
+         letter-spacing:2;
+         text-transform:uppercase;
+         text-shadow:10px 8px 8px red;
+         }  
+   p.c{
+        text-align:right;
+         text-decoration:black wavy overline;
+         color:yellow;
+         text-transform:lowercase;
+         text-shadow:20px 10px 5px red;
+         }  
+</style>
+</head>
+<body>
+<p class="a">Hello you deliver your assignment on time.</p>
+<p class="b">here is a first paragraph of text.</p>
+<p class="c">Here is a Second paragraph of text.</p>
+</body>
+</html>
+
