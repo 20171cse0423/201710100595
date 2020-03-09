@@ -1,0 +1,13 @@
+p.top{margin-top:10px;color:red;}
+p.bottom{margin-bottom:15px;color:blue}
+p.left{margin-left:10px;}
+p.right{margin-right:15px;}
+p.ptop{padding-top:10px;}
+p.pbottom{padding-bottom:15px;}
+p.pright{padding-right:10px;}
+p.pleft{padding-left:15px;}
+p.auto{width:300px;margin:auto;border:1px solid red;}
+p.mmm{margin:25px}
+p.mmmm{margin:25px 50px 75px 100px}
+img{margin:25px 50px 75px 100px;height:100px;width:100px;opacity:0.6;float:right}
+

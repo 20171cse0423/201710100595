@@ -1,0 +1,21 @@
+<html>
+<head>
+<link rel="stylesheet"type="text/css"href="/home/Sem6B7/Desktop/20171cse0423/margin.css"/>
+</head>
+<body>
+<p class="top">This is margin top</p>
+<p class="bottom">This is margin bottom</p>
+<p class="left">This is margin left</p>
+<p class="right">This is margin right</p>
+<p class="mmm">This is single value</p>
+<p class="mmmm">This is multiple values</p>
+<p class="ptop">This is padding top</p>
+<p class="pbottom">This is padding bottom</p>
+<p class="pleft">This is padding left</p>
+<p class="pright">This is padding right</p>
+<p class="auto">This is margin auto</p>
+ <img src="/home/Sem6B7/Desktop/images/index.jpeg">
+
+<p class="mix">This is mix</p>
+</body>
+</html>
