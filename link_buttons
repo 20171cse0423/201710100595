@@ -1,0 +1,38 @@
+<html>
+<head>
+<style>
+a.one{
+      color:white;
+      padding:14px 25px;
+      text-align:center;
+      text-decoration:underline;
+     }
+a.two{
+      color:green;
+      padding:14px 25px;
+      text-align:center;
+      text-decoration:none;
+     }
+a.three{
+      color:black;
+      padding:14px 25px;
+      text-align:center;
+      text-decoration:none;
+      border:2px solid green;
+     }
+a.four{
+      background-color:red;
+      color:white;
+      padding:14px 25px;
+      text-align:center;
+      text-decoration:none;
+     }
+</style>
+</head>
+<body bgcolor=lightpink>
+<a class=one href="/home/Sem6B7/Desktop/20171cse0423/Linda">Text Link</a>
+<a class=two href="/home/Sem6B7/Desktop/20171cse0423/overriding">Text Link</a>
+<a class=three href="/home/Sem6B7/Desktop/20171cse0423/back_ground_image">Link Button</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a class=four href="/home/Sem6B7/Desktop/20171cse0423/back_ground_image">Link Button</a>
+</body>
+</html>  
