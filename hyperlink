@@ -1,0 +1,22 @@
+<html>
+<head>
+<style>
+a:link,a:visited{
+      background-color:#f44336;
+      color:white;
+      padding:14px 25px;
+      text-align:center;
+      text-decoration:none;
+      display:inline-block;
+     }
+a:hover,a:active{
+      background-color:green;
+        }
+</style>
+</head>
+<body bgcolor=lightpink>
+<a href="/home/Sem6B7/Desktop/20171cse0423/Linda">Home</a>
+<a href="/home/Sem6B7/Desktop/20171cse0423/overriding">contact</a>
+<a href="/home/Sem6B7/Desktop/20171cse0423/back_ground_image">About us</a>
+</body>
+</html>
